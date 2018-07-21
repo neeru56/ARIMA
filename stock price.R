@@ -1,7 +1,4 @@
----
-title: "pr3"
-author: "Neeru Bhardwaj"
----
+
 
 ```{r}
 # Data overview
